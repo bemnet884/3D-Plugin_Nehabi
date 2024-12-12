@@ -28,7 +28,9 @@ The 3D Multi-Viewer Plugin allows you to embed and display 3D models on your Wor
 ### Shortcode:
 To use the 3D viewer in your posts or pages, add the following shortcode:
 
+```plaintext
 [multiviewer type="gltf" src="MODEL_URL" width="100%" height="500px"]
+```
 
 **Parameters:**
 - `type` (required): Specify the model type. Options: `gltf`, `spline`, `sketchfab`.
@@ -36,8 +38,10 @@ To use the 3D viewer in your posts or pages, add the following shortcode:
 - `width` (optional): Width of the viewer. Default: `100%`.
 - `height` (optional): Height of the viewer. Default: `500px`.
 
+```plaintext
 Example for a GLTF model:
 [multiviewer type="gltf" src="https://example.com/model.gltf" width="100%" height="500px"]
+```
 
 Example for an embedded Spline model:
 ```plaintext
