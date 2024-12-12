@@ -38,8 +38,8 @@ To use the 3D viewer in your posts or pages, add the following shortcode:
 - `width` (optional): Width of the viewer. Default: `100%`.
 - `height` (optional): Height of the viewer. Default: `500px`.
 
-```plaintext
 Example for a GLTF model:
+```plaintext
 [multiviewer type="gltf" src="https://example.com/model.gltf" width="100%" height="500px"]
 ```
 
