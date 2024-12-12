@@ -104,7 +104,7 @@ You can style the 3D viewer by modifying the included `style.css`. The default v
 ## License
 
 This plugin is licensed under the [GPL-2.0 License](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
-```
+
 
 ### Key Updates:
 - Your name is now **Bemnet Beyene**.
