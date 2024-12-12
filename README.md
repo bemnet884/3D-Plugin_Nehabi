@@ -1,5 +1,3 @@
-Here is the updated `README.md` for the 3D Multi-Viewer Plugin, with your name and the context of the plugin being for the Nehabin website builder based on WordPress:
-
 ```markdown
 # 3D Multi-Viewer Plugin for Nehabin Website Builder
 
