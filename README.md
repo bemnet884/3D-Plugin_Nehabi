@@ -96,8 +96,8 @@ You can style the 3D viewer by modifying the included `style.css`. The default v
 
 **Bemnet Beyene**
 
-- [Website](https://www.nehabin.com)
-- [Contact](mailto:your-email@example.com)
+- [Website](https://github.com/bemnet884/)
+- [Contact](bemnet537@gmail.com)
 
 ---
 
