@@ -1,4 +1,3 @@
-```markdown
 # 3D Multi-Viewer Plugin for WordPress  
 
 ## Description  
@@ -130,4 +129,3 @@ The plugin includes a user-friendly admin page to generate shortcodes:
 ## License  
 
 This plugin is licensed under the [GPL-2.0 License](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).  
-```  
