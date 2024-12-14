@@ -88,7 +88,7 @@ You can style the 3D viewer by modifying the included `style.css`. The default v
 ### Version 1.1
 - Initial release with support for embedding Spline, Sketchfab, and GLTF/GLB models.
 - Added model upload functionality in the admin panel.
-- Enhanced error handling for missing models and file types.
+- Enhanced error handling for missing models and file types. 
 
 ---
 
